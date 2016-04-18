@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExemploParametros</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_ok">OK</string>
+    <string name="title_activity_act_segunda_tela">Activity Segunda Tela</string>
+    <string name="lbl_Fechar">Fechar</string>
+</resources>
